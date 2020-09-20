@@ -1,4 +1,4 @@
-# myrmidon_chess
+# myrmidon-chess
 
 This is a Myrmidon Chess game developed using Java.
 
